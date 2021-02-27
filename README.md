@@ -1,10 +1,10 @@
 ## Installation
 The following libraries are required:
-pandas,
-numpy,
-matplotlib.pyplot,
-seaborn
-Jupyter magic command %matplotlib inline
+1. pandas
+2. numpy
+3. matplotlib.pyplot
+4. seaborn
+5. Jupyter magic command %matplotlib inline
 
 The code should run with no issues using Python versions 3.*.
 
