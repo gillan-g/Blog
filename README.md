@@ -18,8 +18,10 @@ For this project, I was interestested in using Stack Overflow data from 2020 to 
 ## File Descriptions
 1. Stack Overflow 2020 survey results .CSV file
 2. Stack Overflow 2020 survey schema .CSV file
-3. Jupyter notebook .ipynb file used fro processing the data
-4. Directory jenerated by Jupyter
+3. Stack Overflow readme file README_2020.txt
+4. My readme file README.txt
+5. Jupyter notebook .ipynb file used fro processing the data
+6. Directory jenerated by Jupyter
 
 ## Results
 The main findings of the code can be found at the post available here.
