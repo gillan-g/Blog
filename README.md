@@ -1,9 +1,10 @@
 ## Installation
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-%matplotlib inline
+The following libraries are required:
+pandas,
+numpy,
+matplotlib.pyplot,
+seaborn
+Jupyter magic command %matplotlib inline
 
 The code should run with no issues using Python versions 3.*.
 
